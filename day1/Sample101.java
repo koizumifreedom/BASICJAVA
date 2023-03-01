@@ -7,3 +7,5 @@ public class Sample101 {
         System.out.println("Hello,World");   //「Hello,World」という文字列を表示
     }
 }
+
+//Hello,World
