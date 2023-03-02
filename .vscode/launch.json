@@ -1,0 +1,91 @@
+{
+  // IntelliSense を使用して利用可能な属性を学べます。
+  // 既存の属性の説明をホバーして表示します。
+  // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Sample304",
+      "request": "launch",
+      "mainClass": "day3.Sample304",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Sample101",
+      "request": "launch",
+      "mainClass": "day1.Sample101",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample102",
+      "request": "launch",
+      "mainClass": "day1.Sample102",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample103",
+      "request": "launch",
+      "mainClass": "day1.Sample103",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample201",
+      "request": "launch",
+      "mainClass": "day2.Sample201",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample202",
+      "request": "launch",
+      "mainClass": "day2.Sample202",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample203",
+      "request": "launch",
+      "mainClass": "day2.Sample203",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample204",
+      "request": "launch",
+      "mainClass": "day2.Sample204",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample205",
+      "request": "launch",
+      "mainClass": "day2.Sample205",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample206",
+      "request": "launch",
+      "mainClass": "day2.Sample206",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample301",
+      "request": "launch",
+      "mainClass": "day3.Sample301",
+      "projectName": "basicjava_682588d9"
+    }
+  ]
+}
