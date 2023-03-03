@@ -1,6 +1,7 @@
 // if～else if～else
 package day3;
 
+//if~else if~else
 public class Sample303 {
     public static void main(String[] args) {
        //標準出力
@@ -19,5 +20,6 @@ public class Sample303 {
 
 //左辺と右辺の値を比較するという場合は「＝＝』を使うケースがある
 //ifでもelseでもない中間的な条件の場合は、else ifを使う
+//else ifは「S何個あっても大丈夫
 
 //one

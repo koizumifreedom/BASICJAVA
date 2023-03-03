@@ -1,3 +1,4 @@
+//final変数
 package day2;
 
 public class Sample206 {

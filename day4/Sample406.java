@@ -1,0 +1,23 @@
+package day4;
+
+public class Sample406 {
+   public static void main (String[] args) {
+       System.out.println("6が出たら終了");
+       //無限ループ
+       while(true){
+          int dice = (int)(Math.random()*6)+1;
+          System.out.println(dice);
+          if(dice == 6) { //もし6が出たら
+             break;       //ループから抜ける
+          }
+       }
+       System.out.println("終了");
+   }
+}
+
+//trueを入れた時点で無限に回り続ける
+
+//6が出たら終了
+//2
+//6
+//終了

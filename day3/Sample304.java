@@ -1,3 +1,4 @@
+//複雑なif文
 package day3;
 
 public class Sample304 {

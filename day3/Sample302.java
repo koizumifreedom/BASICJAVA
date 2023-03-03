@@ -1,3 +1,4 @@
+// if～else文
 package day3;
 
 public class Sample302 {
