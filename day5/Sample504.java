@@ -1,3 +1,4 @@
+//不揃いな配列
 package day5;
 
 public class Sample504 {
@@ -13,6 +14,7 @@ public class Sample504 {
    }
 }
 
+//
 
 //0 1 
 //2 
