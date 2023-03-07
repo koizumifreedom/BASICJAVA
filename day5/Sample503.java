@@ -1,4 +1,4 @@
-///多次元配列
+//多次元配列
 package day5;
 
 public class Sample503 {

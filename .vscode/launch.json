@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sample602",
+      "request": "launch",
+      "mainClass": "day6.Sample602",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
+      "name": "Sample601",
+      "request": "launch",
+      "mainClass": "day6.Sample601",
+      "projectName": "basicjava_682588d9"
+    },
+    {
+      "type": "java",
       "name": "Sample503",
       "request": "launch",
       "mainClass": "day5.Sample503",

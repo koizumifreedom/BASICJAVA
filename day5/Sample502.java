@@ -1,4 +1,4 @@
-///配列の初期化
+//配列の初期化
 package day5;
 
 public class Sample502 {
